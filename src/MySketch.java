@@ -1,5 +1,7 @@
 import processing.core.PApplet;
 
+// run this class to run the program, it has the only copy of the main function
+
 public class MySketch extends MyApplet {
 
     public static void main(String... args) {
